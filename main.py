@@ -16,5 +16,5 @@ async def ping(ctx):
     await ctx.send("Pong! Bot is working ✅")
 
 # Run the bot
-TOKEN = os.getenv("MTQ1Mjc4MDcxMDY5MDY4OTA0NA.G8NnYv.5mXU3nTW6uFt9pdtwLOMVqngNMxo7biA-VZJ8w")  # Make sure you put your token in Pella environment variable
+TOKEN = os.getenv("MTQ1Mjc4MDcxMDY5MDY4OTA0NA.Gvgv5w.8WMztnqA6tvWvl8JWomWkrjqJ1R_Xto9Erdj0E")  # Make sure you put your token in Pella environment variable
 bot.run(TOKEN)
