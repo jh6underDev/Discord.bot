@@ -1,2 +1,2 @@
-# Discord.bot
+# main.py
 Idk
